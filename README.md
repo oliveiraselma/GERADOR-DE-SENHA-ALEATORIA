@@ -3,7 +3,7 @@
 <p> Neste gerador, será possível ao usuário, através de um tooltip, escolher a quantidade de caracteres desta senha, o que determinará o seu tamanho. 
 <br>
 <p> O tamanho poderá variar de 5 caracteres no mínimo até 25 caracteres no máximo. 
-<p> Será possível também copiar esta senha e colar em qualquer lugar desejado.<p/>
+<p> Será possível também copiar e colar esta senha.<p/>
 <p> Utilizei como tecnologia HTML , CSS, e algumas funcionalidades em Javascript.🚀<p/>
 <br>
 <img src=' '>
