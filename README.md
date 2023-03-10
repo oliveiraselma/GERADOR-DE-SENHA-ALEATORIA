@@ -1,6 +1,5 @@
 <p> Oi 👋<p/>
 <p> Este projeto é um gerador de senhas aleatórias<p/>
-<br>
 <p> Neste gerador, será possível o usuário, através de um tooltip, escolher a quantidade de caracteres desta senha, o que determinará o seu tamanho. 
 <br>
 <p> Será possível também copiar esta senha e colar em qualquer lugar desejado.<p/>
