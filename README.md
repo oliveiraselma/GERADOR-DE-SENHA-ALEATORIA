@@ -6,4 +6,4 @@
 <p> Será possível também copiar e colar esta senha.<p/>
 <p> Utilizei como tecnologia HTML , CSS, e algumas funcionalidades em Javascript.🚀<p/>
 <br>
-<img src=' '>
+<img src='assets/img/geradordesenha.png '>
